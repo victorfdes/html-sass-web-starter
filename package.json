@@ -1,0 +1,31 @@
+{
+  "name": "UntitledLemon",
+  "version": "0.0.1",
+  "description": "Starter web template that utilises gulp to automate most web development tasks and make life simple.",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "author": "Victor Fernandes",
+  "license": "MIT",
+  "bugs": {
+    "url": ""
+  },
+  "homepage": "",
+  "devDependencies": {
+    "autoprefixer": "^6.5.2",
+    "browser-sync": "^2.17.6",
+    "gulp": "^3.9.1",
+    "gulp-imagemin": "^4.1.0",
+    "gulp-jshint": "^2.0.2",
+    "gulp-newer": "^1.3.0",
+    "gulp-postcss": "^6.2.0",
+    "gulp-sass": "3.0.0",
+    "gulp-sourcemaps": "^2.2.0",
+    "jshint": "^2.9.4"
+  }
+}
